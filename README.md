@@ -17,7 +17,6 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 - Tailwind
 - Sass
 - React.js
-- Redux
 - npm
 - ...
 
