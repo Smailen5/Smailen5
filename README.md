@@ -9,6 +9,8 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 - CSS
 - Bootstrap
 - Git
+- npm
+- Tailwind CSS
 - ...
   
 ## 🧰 I am currently studying / will study
@@ -16,7 +18,6 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 - JavaScript
 - Sass
 - React.js
-- npm
 - ...
 
 ## Road Maps
