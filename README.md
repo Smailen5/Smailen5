@@ -27,3 +27,5 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 ## 📫 How to reach me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/)
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
