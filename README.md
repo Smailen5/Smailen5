@@ -21,7 +21,7 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 
 ## 🚀 Future Learning Interests
 
-- Full-stack development stack MERN
+### Full-stack development stack MERN
 - Next.js
 - TypeScript
 - Cypress
