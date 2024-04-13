@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm studying to become a frontend developer.
+I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm studying to become a full-stack developer.
  
 ## 🛠 Languages ​​learned
 
