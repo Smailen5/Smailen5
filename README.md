@@ -40,10 +40,6 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-## Road Maps
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6582d2025145316d253219fc?variant=light)](https://roadmap.sh)
-
 ## Education/Learning Resources
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) 
@@ -55,7 +51,6 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@smailen5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smailen5)
 
 
