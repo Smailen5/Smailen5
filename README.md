@@ -18,7 +18,7 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I'm
   
 ## 🧰 I am currently studying
 
-
+...
 
 ## 🚀 Future Learning Interests
 
