@@ -2,11 +2,13 @@
 
 I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I have been studying and developing independently for over two years. Currently, I work on Frontend Mentor projects to refine my skills. I regularly use technologies like React and Next.js to build engaging web applications. I enjoy working on interactive web applications. I am always looking for ways to improve my skills and deepen my understanding of the technologies I use. My goal is to become a full stack developer, specializing in the MERN stack (MongoDB, Express, React, Node.js).
 
+<div height="50px"></div>
+
 <table>
  <tr>
   <td width="50%">
 
-  ## 🛠 Languages ​​learned
+## 🛠 Languages ​​learned
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -36,7 +38,7 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I h
 
   <td width="50%">
 
-  ## 📚 Currently learning
+## 📚 Currently learning
 
   <div align="left" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -50,7 +52,7 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I h
  <tr>
   <td>
 
-  ## 🖥️ My favourite languages
+## 🖥️ My favorite languages
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
@@ -65,11 +67,11 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I h
   </td>
   <td>
 
-  ## 📫 How to reach me
+## 📫 How to reach me
 
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@smailen5)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smailen5)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@smailen5)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smailen5)
 
   </td>
 
@@ -78,7 +80,7 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I h
   <tr>
     <td>
 
-  ## 🚀 Future Learning Interests
+## 🚀 Future Learning Interests
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -108,6 +110,8 @@ I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I h
 <img src="https://raw.githubusercontent.com/Smailen5/Smailen5/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## 📊 My stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smailen5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
