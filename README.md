@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. I have been studying and developing independently for over two years. Currently, I work on Frontend Mentor projects to refine my skills. I regularly use technologies like React and Next.js to build engaging web applications. I enjoy working on interactive web applications. I am always looking for ways to improve my skills and deepen my understanding of the technologies I use. My goal is to become a full stack developer, specializing in the MERN stack (MongoDB, Express, React, Node.js).
+I am [Smailen](https://github.com/Smailen5) a frontend developer from Italy. Self-taught study and development since 2023. Currently, I work on Frontend Mentor projects to refine my skills. I regularly use technologies like React and Next.js to build engaging web applications. I enjoy working on interactive web applications. I am always looking for ways to improve my skills and deepen my understanding of the technologies I use.
 
 <div height="50px"></div>
 
