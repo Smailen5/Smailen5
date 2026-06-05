@@ -10,6 +10,11 @@ Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 
 ---
 
+[![GitHub Release](https://img.shields.io/github/v/release/Smailen5/Smailen5?style=flat-square&logo=github)](https://github.com/Smailen5/Smailen5/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Smailen5/Smailen5?style=flat-square&logo=github)](https://github.com/Smailen5/Smailen5/commits/main)
+
+---
+
 ## ⚡ Cosa sto costruendo
 
 - **Portfolio personale** — [smailenvargas.com](https://smailenvargas.com) con React 18, TypeScript, TanStack Router, Tailwind v4
