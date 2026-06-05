@@ -6,6 +6,7 @@ Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 [![Portfolio](https://img.shields.io/badge/Portfolio-smailenvargas.com-blue?style=flat-square&logo=firefox&logoColor=white)](https://smailenvargas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@smailen5)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/smaylen5)
 
 ---
 
@@ -50,15 +51,6 @@ Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-
----
-
-## 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@smailen5)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smaylen5)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smailen5)
 
 <!-- Snake animation -->
 <picture>
