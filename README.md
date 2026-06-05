@@ -15,7 +15,7 @@ Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 - **30+ progetti Frontend Mentor** — evoluzione da HTML/CSS puro a React/TS avanzato con Atomic Design, dark mode, lazy loading
 - **smaile-config** — CLI tool per sincronizzare configurazioni CI/CD tra progetti
 - **templates** — boilerplate TypeScript con ESLint flat config, commitlint, release-please, GitHub Actions
-- **Backend monorepo** — Express, SQLite, Passport.js, autenticazione JWT e Google OAuth
+- **Progetti backend** — API server con Express, SQLite, Passport.js, autenticazione JWT e Google OAuth
 
 ---
 
