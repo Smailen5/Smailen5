@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Smailen5/Smailen5/compare/v1.0.0...v1.0.1) (2026-06-05)
+
+
+### Bug Fixes
+
+* sostituisce top-langs con most-commit-language e sistema streak stats ([#8](https://github.com/Smailen5/Smailen5/issues/8)) ([798eadf](https://github.com/Smailen5/Smailen5/commit/798eadf98e6eda733f725a165902d2d044508bc9))
+
 ## 1.0.0 (2026-06-05)
 
 
