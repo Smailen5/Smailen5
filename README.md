@@ -57,6 +57,12 @@ Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 
+---
+
+## 🖥️ Homelab
+
+Studio Linux amministrando il mio homelab: **server Monday** (GMKtec G10, Ryzen 5, 16GB RAM) con **Proxmox VE**, backup via **Proxmox Backup Server** e servizi esposti in sicurezza via **Cloudflare Tunnels**.
+
 <!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Smailen5/Smailen5/output/snake-dark.svg">
@@ -70,7 +76,7 @@ Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smailen5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=Smailen5&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=Smailen5&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
