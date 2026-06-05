@@ -75,8 +75,8 @@ Studio Linux amministrando il mio homelab: **server Monday** (GMKtec G10, Ryzen 
 ## 📊 My stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smailen5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Smailen5&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smailen5&theme=dark" alt="top languages by commit" />
+  <img src="https://streak-stats.demolab.com/?user=Smailen5&theme=dark&hide_border=false&border_radius=5" alt="streak graph" />
 </div>
 
 ###
