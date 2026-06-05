@@ -3,13 +3,15 @@
 Frontend developer che costruisce UI con **React**, **TypeScript** e **Tailwind CSS**.  
 Nel tempo libero trovo modi creativi per rompere server Linux nel mio homelab.
 
-[![GitHub Release](https://img.shields.io/github/v/release/Smailen5/Smailen5?style=flat-square&logo=github)](https://github.com/Smailen5/Smailen5/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Smailen5/Smailen5?style=flat-square&logo=github)](https://github.com/Smailen5/Smailen5/commits/main)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-smailenvargas.com-blue?style=flat-square&logo=firefox&logoColor=white)](https://smailenvargas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smailen-vargas/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@smailen5)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/smaylen5)
+
+---
+
+[![GitHub Release](https://img.shields.io/github/v/release/Smailen5/Smailen5?style=flat-square&logo=github)](https://github.com/Smailen5/Smailen5/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Smailen5/Smailen5?style=flat-square&logo=github)](https://github.com/Smailen5/Smailen5/commits/main)
 
 ---
 
