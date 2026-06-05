@@ -79,4 +79,8 @@ Studio Linux amministrando il mio homelab: **server Monday** (GMKtec G10, Ryzen 
   <img src="https://streak-stats.demolab.com/?user=Smailen5&theme=dark&hide_border=false&border_radius=5" alt="streak graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smailen5&theme=dark" alt="profile details" />
+</div>
+
 ###
